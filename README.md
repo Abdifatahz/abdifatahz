@@ -3,5 +3,6 @@
 
 #### I am a full-stack PHP developer.I spend my days designing and developing web applications, and teaching on Somcoders. I specialize in the Laravel PHP framework on the backend, React.js on the frontend ,Bootstrap and Tailwind CSS for styling. Currently I work full time as a Laravel developer, building internal apps and tools for my employer.
 
-Visit my porfolio
-https://abdifatah.so
+- Websites
+  - https://abdifatah.so
+  - https://somcoders.com
