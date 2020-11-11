@@ -6,3 +6,9 @@
 - Websites
   - https://abdifatah.so
   - https://somcoders.com
+
+
+### Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abdifatahz&show_icons=true&locale=en" align="center" width="40%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdifatahz" align="center" width="40%"/>
+</div> 
