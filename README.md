@@ -7,8 +7,11 @@ I am a full-stack PHP developer.I spend my days designing and developing web app
   - https://abdifatah.so
   - https://somcoders.com
 
-
 ### Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abdifatahz&show_icons=true&locale=en" align="center" width="40%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdifatahz" align="center" width="40%"/>
-</div> 
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=abdifatahz&theme=radical" align="center" width="40%"/>
+</p>
+
+
+  [![Abdifatah's github activity graph](https://activity-graph.herokuapp.com/graph?username=abdifatahz&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
