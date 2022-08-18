@@ -4,7 +4,7 @@
 I am a full-stack PHP developer.I spend my days designing and developing web applications, and teaching on Somcoders. I specialize in the Laravel PHP framework on the backend, React.js on the frontend ,Bootstrap and Tailwind CSS for styling.
 
 - Websites
-  - https://abdifatah.so
+  - https://awil.dev/
   - https://somcoders.com
 
 ### Github Stats  
