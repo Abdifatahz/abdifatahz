@@ -1,7 +1,7 @@
 ### Abdifatah Abdilahi 👋
 ## I'm a Fullstack Enginner 
 
-I am a full-stack PHP developer.I spend my days designing and developing web applications, and teaching on Somcoders. I specialize in the Laravel PHP framework on the backend, React.js on the frontend ,Bootstrap and Tailwind CSS for styling.
+A Full Stack Developer with 6+ years of experience in PHP, WordPress, Laravel, and JavaScript and 3+ years of experience in ReactJS, TailwindCSS, and Bootstrap. Developed over 10 websites and web applications from scratch while working with teams.
 
 - Websites
   - https://awil.dev/
