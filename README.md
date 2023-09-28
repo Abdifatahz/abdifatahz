@@ -1,7 +1,7 @@
 ### Abdifatah Abdilahi 👋
 ## I'm a Fullstack Enginner 
 
-A Full Stack Developer with 6+ years of experience in C#, PHP, WordPress, ASP, Laravel, and JavaScript and 3+ years of experience in ReactJS, TailwindCSS, and Bootstrap. Developed over 10 websites and web applications from scratch while working with teams.
+A Full Stack Developer with 6+ years of experience in C#, PHP, WordPress, ASP.NET, Laravel, and JavaScript and 3+ years of experience in ReactJS, TailwindCSS, and Bootstrap. Developed over 10 websites and web applications from scratch while working with teams.
 
 - Websites
   - https://awil.dev/
