@@ -1,14 +1,14 @@
 ### Abdifatah Awil 👋
 ## 🚀 Full-stack Developer | Data Analyst 🚀
 
-🔹 Extensive Web Development and Database Knowledge
-🔹 Proficient in PHP, C#, Python, JavaScript
-🔹 Skilled in Laravel, ReactJS, TailwindCSS, Bootstrap
+- 🔹 Extensive Web Development and Database Knowledge
+- 🔹 Proficient in PHP, C#, Python, JavaScript
+- 🔹 Skilled in Laravel, ReactJS, TailwindCSS, Bootstrap
 
-🔸 Strong knowledge in Data Analytics and Visualization
-🔸 Expertise in Excel, Power BI, Pandas, NumPy, IBM Cognos Analytics
+- 🔸 Strong knowledge in Data Analytics and Visualization
+- 🔸 Expertise in Excel, Power BI, Pandas, NumPy, IBM Cognos Analytics
 
-🏆 Developed and maintained a Learning Management System with over 150k users
+- 🏆 Developed and maintained a Learning Management System with over 150k users
 
 Let's connect and create something amazing!
 
