@@ -1,7 +1,16 @@
-### Abdifatah Abdilahi 👋
-## I'm a Fullstack Enginner 
+### Abdifatah Awil 👋
+## 🚀 Full-stack Developer | Data Analyst 🚀
 
-A Full Stack Developer with 6+ years of experience in PHP, WordPress, Laravel and JavaScript and 3+ years of experience in C#, ASP.NET, ReactJS, TailwindCSS, and Bootstrap. Developed over 10 websites and web applications from scratch while working with teams.
+🔹 Extensive Web Development and Database Knowledge
+🔹 Proficient in PHP, C#, Python, JavaScript
+🔹 Skilled in Laravel, ReactJS, TailwindCSS, Bootstrap
+
+🔸 Strong knowledge in Data Analytics and Visualization
+🔸 Expertise in Excel, Power BI, Pandas, NumPy, IBM Cognos Analytics
+
+🏆 Developed and maintained a Learning Management System with over 150k users
+
+Let's connect and create something amazing!
 
 - Websites
   - https://awil.dev/
