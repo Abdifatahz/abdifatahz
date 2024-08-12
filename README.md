@@ -6,7 +6,7 @@
 - 🔹 Skilled in Laravel, ReactJS, TailwindCSS, Bootstrap
 
 - 🔸 Strong knowledge in Data Analytics and Visualization
-- 🔸 Expertise in Excel, Power BI, Pandas, NumPy, IBM Cognos Analytics
+- 🔸 Expertise in Excel, SQL, Power BI, Pandas, NumPy, IBM Cognos Analytics
 
 - 🏆 Developed and maintained a Learning Management System with over 150k users
 
